@@ -718,17 +718,13 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
 # Collections
 collections:
   starfall:
-    layout: post
     output: true
   autumn:
-    layout: post
     output: true
   flower:
-    layout: post
     output: true
   trash:
-    layout: post
-    permalink: /diet/trash/:name/
+    permalink: diet/trash/:name/
     output: true
 
 compress_html: # <https://github.com/penibelst/jekyll-compress-html>
