@@ -719,7 +719,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
 collections:
   starfall:
     layout: post
-    permalink: /diet/starfall
+    permalink: ../diet/starfall
     output: true
   autumn:
     layout: post
