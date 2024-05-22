@@ -724,7 +724,6 @@ collections:
   flower:
     output: true
   trash:
-    permalink: diet/trash/:name/
     output: true
 
 compress_html: # <https://github.com/penibelst/jekyll-compress-html>
