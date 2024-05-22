@@ -723,7 +723,7 @@ collections:
     output: true
   flower:
     output: true
-  trash:
+  nerium:
     output: true
 
 compress_html: # <https://github.com/penibelst/jekyll-compress-html>
