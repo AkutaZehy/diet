@@ -1,15 +1,17 @@
 {
   "strictLineBreaks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showLineNumber": true,
   "trashOption": "system",
   "alwaysUpdateLinks": true,
   "useMarkdownLinks": true,
-  "foldHeading": false,
+  "foldHeading": true,
   "vimMode": false,
   "promptDelete": false,
   "newFileLocation": "current",
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "assests"
+  "attachmentFolderPath": "assests",
+  "propertiesInDocument": "source",
+  "spellcheck": false
 }

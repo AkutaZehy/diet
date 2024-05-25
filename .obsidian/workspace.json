@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f31cbdb1846e1b16",
+        "id": "e15edc349e901565",
         "type": "tabs",
         "children": [
           {
-            "id": "384a4f0f56f254cd",
+            "id": "1fefadd80e9ef5d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/1970-01-01-项目经历.md",
+                "file": "_nerium/2024-05-23-我的愿望.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1fd9430b5cfb7a8b",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/1970-01-01-项目经历.md",
+                "file": "_nerium/2024-05-23-我的愿望.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/1970-01-01-项目经历.md",
+                "file": "_nerium/2024-05-23-我的愿望.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/1970-01-01-项目经历.md"
+                "file": "_nerium/2024-05-23-我的愿望.md"
               }
             }
           }
@@ -126,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,40 +138,41 @@
       "workspaces:管理工作区布局": false
     }
   },
-  "active": "384a4f0f56f254cd",
+  "active": "1fefadd80e9ef5d3",
   "lastOpenFiles": [
-    "_layouts/compress.md",
-    "assests/images/clock.jpg",
-    "_layouts/post.md",
-    "_trash/1970-01-01-tags.md",
-    "_trash/2023-08-21-test.md",
-    "_trash/2023-08-21-test_02.md",
-    "_trash/人间的至暗面其十六.md",
-    "_trash/info.md",
-    "_trash/novel.md",
+    "未命名.canvas",
+    "_nerium/2024-05-23-我的愿望.md",
+    "archived/novel.md",
+    "_autumn/2022-03-17-无题.md",
+    "_autumn/2023-12-03-世界的良性与劣性.md",
+    "_autumn/2024-03-23-三月杂文五篇.md",
     "_layouts/redirect.md",
-    "_layouts/tags.md",
-    "_layouts/comments.md",
-    "_layouts/default.md",
-    "_layouts/home.md",
-    "_layouts/page.md",
-    "_posts/1970-01-01-404.md",
-    "tags/article.md",
-    "tags/test.md",
+    "_flower/2024-03-06-蛇.md",
+    "_flower/2024-03-21-湖.md",
+    "_flower/2024-04-09-狼群.md",
+    "_starfall/2024-03-12-将死的妄断.md",
+    "README.md",
     "tags/poem.md",
     "tags/collection.md",
+    "_starfall/2023-12-02-大学社恐生存漫谈.md",
+    "_autumn/2023-12-03-在这奇怪的世界.md",
+    "_layouts/comments.md",
     "tags/blog.md",
-    "_posts/2024-04-17-三语混排之灾难.md",
-    "_posts/2023-11-02-好久不见，万圣快乐.md",
-    "_posts/2023-08-25-血压升高的三两事02.md",
-    "_starfall/2023-09-25-关于星落的故事.md",
+    "_layouts/compress.md",
+    "_layouts/post.md",
+    "_nerium/2023-08-30-人间的至暗面其十六.md",
+    "tags/article.md",
+    "tags/test.md",
+    "assests/images/zeka.jpg",
+    "_posts/1970-01-01-项目经历.md",
+    "assests/images/clock.jpg",
+    "_trash/1970-01-01-tags.md",
+    "_trash/2023-08-21-test.md",
     "assests/images/lamella-02.png",
     "assests/images/lamella-03.png",
     "assests/images/lamella-01.png",
     "assests/images/lamella-1.png",
-    "_posts/2023-11-04-语言的习性.md",
     "assests/images/xiaocai.jpg",
-    "assests/images/zeka.jpg",
     "assests/images/shark-guangzhounihao.jpg",
     "assests/images/Muelsyse.png",
     "assests/images/liar-dancer.png",

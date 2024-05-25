@@ -1,10 +1,12 @@
 {
   "accentColor": "#22a211",
   "theme": "system",
-  "cssTheme": "",
-  "baseFontSize": 20,
-  "textFontFamily": "Sarasa Fixed SC,思源黑体 CN,cjkFonts 全瀨體",
-  "interfaceFontFamily": "MiSans,GlowSansSC,Futura",
+  "cssTheme": "Golden Topaz",
+  "baseFontSize": 16,
+  "textFontFamily": "思源黑体 CN,Sarasa Fixed SC,cjkFonts 全瀨體",
+  "interfaceFontFamily": "Futura,GlowSansSC,MiSans,Inter",
   "nativeMenus": true,
-  "translucency": false
+  "translucency": false,
+  "monospaceFontFamily": "Cascadia Code",
+  "baseFontSizeAction": true
 }
