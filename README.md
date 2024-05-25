@@ -13,7 +13,3 @@
 ## 个人子站
 
 - [WordPress 博文](https://akutazehy.home.blog/)
-
-<!-- .slide vertical=true -->
-
-nerium
