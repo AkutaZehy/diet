@@ -13,5 +13,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "assests",
   "propertiesInDocument": "source",
-  "spellcheck": false
+  "spellcheck": false,
+  "autoConvertHtml": false
 }
