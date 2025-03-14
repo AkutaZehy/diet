@@ -11,7 +11,7 @@
   "newFileLocation": "current",
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "assests",
+  "attachmentFolderPath": "assets",
   "propertiesInDocument": "source",
   "spellcheck": false,
   "autoConvertHtml": false
